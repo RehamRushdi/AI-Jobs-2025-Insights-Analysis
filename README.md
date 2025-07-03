@@ -39,7 +39,7 @@ This project provides a comprehensive analysis of the global AI job market using
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard](AI_JOBS_2025_Dashboard.jpg)
+![Power BI Dashboard](visuals/AI_JOBS_2025_Dashboard.jpg)
 
 ---
 
